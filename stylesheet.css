@@ -84,6 +84,11 @@ a {
   font-size: 20px
 }
 
+tmp {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 18px;
+}
+
 strong {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 20px;
